@@ -1,0 +1,12 @@
+
+GenerateCode/obj/
+
+FrameworkAndDriver/obj/
+
+GenerateCode.Adapters/obj/
+
+GenerateCode.Application/obj/
+
+GenerateCode.Configuration/obj/
+
+GenerateCode.Domain/obj/
